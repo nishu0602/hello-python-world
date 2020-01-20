@@ -1,2 +1,2 @@
 # hello-python-world
-Learn Python
+Learn Python basics
